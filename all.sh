@@ -10,13 +10,13 @@ sleep 1
 git clone https://github.com/Ngocgiau2000/ubuntu.git
 cd
 cd ubuntu
-bash verus11
+sh verus11
 fi
 
 if [ $stt = 2 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "W AI T"|lolcat
 sleep 1
 git clone https://github.com/Ngocgiau2000/miningvip.git
 cd miningvip
