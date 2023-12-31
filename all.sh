@@ -8,8 +8,9 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/Ngocgiau2000/ubuntu.git
+cd
 cd ubuntu
-sh verus11
+bash verus11
 fi
 
 if [ $stt = 2 ]
