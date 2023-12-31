@@ -81,7 +81,7 @@ sleep 1
 apt install git -y
 apt install python -y
 pip install requests -y
-pip install style
+pip install pystyle
 git clone https://github.com/Ngocgiau2000/Tiktok.git
 cd Tiktok
 python view.py
