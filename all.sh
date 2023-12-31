@@ -78,10 +78,11 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
+apt install git -y
 apt install python -y
 pip install requests -y
 pip install style
-git https://github.com/Ngocgiau2000/Tiktok.git
+git clone https://github.com/Ngocgiau2000/Tiktok.git
 cd Tiktok
 python view.py
 fi
