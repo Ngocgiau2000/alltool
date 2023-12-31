@@ -80,10 +80,11 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 apt install git -y
 apt install python -y
-pip install requests -y
-pip install pystyle
+pip install requests
 git clone https://github.com/Ngocgiau2000/Tiktok.git
 cd Tiktok
+pip install pystyle
+pip install requests
 python view.py
 fi
 
