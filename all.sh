@@ -43,6 +43,17 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
+apt install ruby -y
+apt install pv
+apt install sl
+apt install toilet -y
+apt install tsu
+apt install git -y
+apt install wget -y
+apt install neofetch
+apt install figlet
+pkg install python -y
+pip install lolcat
 git clone https://github.com/Ngocgiau2000/ubuntu.git
 cd ubuntu
 sh verus11
@@ -73,9 +84,20 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git cpuiner
-cd facebash
-bash facebash.sh
+apt install ruby -y
+apt install pv
+apt install sl
+apt install toilet -y
+apt install tsu
+apt install git -y
+apt install wget -y
+apt install neofetch
+apt install figlet
+pkg install python -y
+pip install lolcat
+git clone https://github.com/Ngocgiau2000/ubuntu.git
+cd ubuntu
+sh verus11
 fi
 
 if [ $stt = 7 ]
