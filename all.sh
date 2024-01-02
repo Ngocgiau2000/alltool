@@ -83,12 +83,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Ngocgiau2000/Tiktok.git
-cd Tiktok
-pkg install python
-pip install pystyle
-pip install requests
-python view.py
+git clone https://github.com/Ngocgiau2000/cpuminer-allcoin.git
+cd cpuminer-allcoin
+sh cpuminer
 fi
 
 if [ $stt = 8 ]
@@ -96,9 +93,12 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git
-cd ProfileGuardFb
-php guard.php
+git clone https://github.com/Ngocgiau2000/Tiktok.git
+cd Tiktok
+pkg install python
+pip install pystyle
+pip install requests
+python view.py
 fi
 
 if [ $stt = 9 ]
