@@ -1,14 +1,14 @@
-clear
-echo "tool dang update vui long quay lai .....!"
-sleep 1
-echo "tool dang update vui long quay lai .....!"
-sleep 1
-echo "tool dang update vui long quay lai .....!"
-sleep 1
-echo "tool dang update vui long quay lai .....!"
-sleep 1
-echo "tool dang update vui long quay lai .....!"
-sleep 1000000000
+#clear
+#echo "tool dang update vui long quay lai .....!"
+#sleep 1
+#echo "tool dang update vui long quay lai .....!"
+#sleep 1
+#echo "tool dang update vui long quay lai .....!"
+#sleep 1
+#echo "tool dang update vui long quay lai .....!"
+#sleep 1
+#echo "tool dang update vui long quay lai .....!"
+#sleep 1000000000
 
 
 
