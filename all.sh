@@ -141,10 +141,10 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git
-cd Report
-unzip Report.zip
-python2 Report.py
+php install php
+git clone https://github.com/Ngocgiau2000/claim.git
+cd claim
+php claimvip.php
 fi
 
 if [ $stt = 10 ]
