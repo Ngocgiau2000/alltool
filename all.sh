@@ -142,9 +142,12 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-php install php
+apt update
+apt upgrade
+apt install git
 git clone https://github.com/Ngocgiau2000/claim.git
 cd claim
+php install php
 php claimvip.php
 fi
 
