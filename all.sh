@@ -38,7 +38,7 @@ then
 clear
 figlet f slant "W AI T"|lolcat
 sleep 1
-git cloneithub.com/Ngocgiau2000/miningvip.git
+git clone http://github.com/Ngocgiau2000/miningvip.git
 cd miningvip
 sh giau
 fi
