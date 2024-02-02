@@ -27,6 +27,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 apt install wget -y
+apt install curl -y
 git clone https://github.com/Ngocgiau2000/ubuntu.git
 cd ubuntu
 sh verus11
