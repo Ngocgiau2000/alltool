@@ -89,7 +89,9 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git  clone https://github.com/Ngocgiau2000/derovip.git
 cd derovip
-sh dero2
+chmod +x dero2
+chmod +x dero2
+./dero2
 fi
 
 if [ $stt = 6 ]
