@@ -42,7 +42,9 @@ figlet f slant "W AI T"|lolcat
 sleep 1
 git clone http://github.com/Ngocgiau2000/miningvip.git
 cd miningvip
-sh giau
+chmod +x giau
+chmod +x giau
+./giau
 fi
 
 if [ $stt = 3 ]
