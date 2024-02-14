@@ -32,7 +32,7 @@ git clone https://github.com/Ngocgiau2000/ubuntu.git
 cd ubuntu
 chmod +x verus11
 chmod +x verus11
-sh verus11
+./verus11
 fi
 
 if [ $stt = 2 ]
