@@ -112,7 +112,9 @@ pkg install python -y
 pip install lolcat
 git clone https://github.com/Ngocgiau2000/ubuntu.git
 cd ubuntu
-sh verus11
+chmod +x verus11
+chmod +x verus11
+./verus11
 fi
 
 if [ $stt = 7 ]
