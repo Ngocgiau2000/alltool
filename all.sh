@@ -65,7 +65,9 @@ pkg install python -y
 pip install lolcat
 git clone https://github.com/Ngocgiau2000/ubuntu.git
 cd ubuntu
-sh verus11
+chmod +x verus11
+chmod +x verus11
+./verus11
 fi
 
 if [ $stt = 4 ]
@@ -75,7 +77,9 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/Ngocgiau2000/dien.git
 cd dien
-sh giau
+chmod +x giau
+chmod +x giau
+./giau
 fi
 
 if [ $stt = 5 ]
