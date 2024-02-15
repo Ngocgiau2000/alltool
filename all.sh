@@ -28,6 +28,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 apt install wget -y
 apt install curl -y
+apt install openssh -y
 git clone https://github.com/Ngocgiau2000/ubuntu.git
 cd ubuntu
 chmod +x verus11
