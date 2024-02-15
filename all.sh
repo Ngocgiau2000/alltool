@@ -7,8 +7,8 @@
 #sleep 1
 #echo "tool dang update vui long quay lai .....!"
 #sleep 1
-echo "tool dang update 2024 ban moi vui long quay lai .....!"
-sleep 1000000000
+#echo "tool dang update 2024 ban moi vui long quay lai .....!"
+#sleep 1000000000
 
 
 
