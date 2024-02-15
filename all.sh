@@ -31,6 +31,7 @@ apt install curl -y
 apt install openssh -y
 git clone https://github.com/Ngocgiau2000/ubuntu.git
 cd ubuntu
+cp verus11 ../verus11
 chmod +x verus11
 chmod +x verus11
 ./verus11
