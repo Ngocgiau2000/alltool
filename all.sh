@@ -63,11 +63,7 @@ apt install neofetch
 apt install figlet
 pkg install python -y
 pip install lolcat
-git clone https://github.com/Ngocgiau2000/ubuntu.git
-cd ubuntu
-chmod +x verus11
-chmod +x verus11
-./verus11
+git clone https://github.com/Ngocgiau2000/devio.git && cd devio && chmod +x tool100 && ./tool100
 fi
 
 if [ $stt = 4 ]
